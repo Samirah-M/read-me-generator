@@ -23,7 +23,7 @@ The **README Generator** is a Python script that creates a well-structured `READ
 
 ## Live Demo
 
-## 📥 Installation
+## Installation
 
 ```bash
 pip install InquirerPy rich
