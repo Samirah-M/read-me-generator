@@ -1,7 +1,5 @@
 <h1 align="center">Readme Generator 🚀</h1>
 
-## Description
-
 > This Python script generates a `README.md` file based on user input using `InquirerPy` for interactive prompts and `Rich` for enhanced terminal output.
 
 ## Technologies used:
