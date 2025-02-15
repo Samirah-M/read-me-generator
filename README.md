@@ -35,6 +35,3 @@ pip install InquirerPy rich
 👤 **Samirah-M**
 
 - Github: [@Samirah-M](https://github.com/Samirah-M)
-
----
-```
