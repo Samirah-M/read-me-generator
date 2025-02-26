@@ -19,7 +19,7 @@
 
 ## Project Overview:
 
-The **README Generator** is a Python script that creates a well-structured `README.md` file based on user input. It utilizes interactive command-line prompts and styled terminal output for an enhanced experience.
+The **README Generator** is a Python script that creates a well-structured `README.md` file based on user input. It utilises interactive command-line prompts and styled terminal output for an enhanced experience.
 
 ## Live Demo
 
